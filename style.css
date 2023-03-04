@@ -10,12 +10,12 @@ body {
 header {
   display: flex;
   align-items: center;
-  background: #e7e7ff;
+  background: #39373f;
 }
 
 header img {
   width: 50px;
-  background: white;
+  background: #39373f;
   border-radius: 5px;
   margin: 0 20px 0 40px;
 }
